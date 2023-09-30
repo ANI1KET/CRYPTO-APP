@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/CRYPTO-APP/static/js/main.ff37bc44.js",
+    "static/media/btc.png": "/CRYPTO-APP/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/CRYPTO-APP/index.html",
+    "main.ff37bc44.js.map": "/CRYPTO-APP/static/js/main.ff37bc44.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ff37bc44.js"
+  ]
+}
